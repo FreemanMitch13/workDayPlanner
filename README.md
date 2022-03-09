@@ -37,6 +37,6 @@ Moment.js
 
 ### Links
 
-GitHub URL:
+GitHub URL: https://github.com/FreemanMitch13/workDayPlanner
 
 Live URL: 
